@@ -21,3 +21,5 @@ module "asg" {
   ebs_optimized     = true
   enable_monitoring = true
 }
+
+
